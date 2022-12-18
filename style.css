@@ -1,0 +1,12 @@
+html{
+    background-color: #000000;
+}
+div{
+    background-color: #ffffff;
+    width: fit-content;
+}
+#image{
+    display: none;
+    background-color: #000000;
+    color: #ffffff;
+}
